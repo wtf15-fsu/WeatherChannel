@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 3rd, 2018
 
 ### Student Name:  
-(First and Last Name)
+Willaim Fuller
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create a page that uses the API from https://www.apixu.com/ to display a 10-day weather forecast, along with the current weather, when the user enters a location.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://wtf15-fsu.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Using an API to pull information
+2. Applying AJAX requested info to elements on a page
+3. Integrating bootstrap elements in a dynamic page
 
